@@ -38,6 +38,8 @@ make install
 /usr/lib64/ocaml/alsa/alsa.cmx
 /usr/lib64/ocaml/alsa/alsa.cmxa
 /usr/lib64/ocaml/alsa/alsa.mli
+/usr/lib64/ocaml/alsa/dllalsa_stubs.so
+/usr/lib64/ocaml/alsa/libalsa_stubs.a
 
 %description
 This package contains an O'Caml interface for alsa library, otherwise known as libasound2.
