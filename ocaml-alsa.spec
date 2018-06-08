@@ -1,6 +1,6 @@
 Name:     ocaml-alsa
 
-Version:  0.2.2
+Version:  0.2.3
 Release:  1
 Summary:  OCaml interface to alsa library/asound2
 License:  GPLv2+
